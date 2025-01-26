@@ -13,18 +13,18 @@ const { text, icon, href } = Astro.props
   
     
     <img 
-    src={`/public/media/fotos/${icon}.png`} 
+    src={`/media/fotos/${icon}.png`} 
     alt={`${icon} Logo` }
-    class="w-8 h-8 block dark:hidden"
+    class="w-10 h-10 block dark:hidden"
   />
   <img 
-  src={`/public/media/fotos/${icon}-light.png`} 
+  src={`/media/fotos/${icon}-light.png`} 
   alt={`${icon} Logo` }
-    class="w-8 h-8  hidden dark:block"
+    class="w-10 h-10  hidden dark:block"
   />
 
   
-  <span class="text-sm mt-8 capitalize text-neutral-500 dark:text-neutral-400 group-hover:text-black group-hover:dark:text-white blend">
+  <span class="text-sm mt-10 capitalize text-neutral-500 dark:text-neutral-400 group-hover:text-black group-hover:dark:text-white blend">
     {text}
   </span>
 </a>
