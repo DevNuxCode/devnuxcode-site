@@ -1,17 +1,31 @@
 {
     "clients": [
       {
-        "name": "Cliente 1",
-        "logo": "/fotocliente.jpg" 
+        
+        "logo": "/public/media/fotos/canetelogo.png" 
       },
       {
-        "name": "Cliente 2",
-        "logo": "/fotocliente.jpg"
+        
+        "logo": "/public/media/fotos/visionplena.jpg"
       },
       {
-        "name": "Cliente 1",
-        "logo": "/fotocliente.jpg" 
+        
+        "logo": "/public/media/fotos/libanocliente.png" 
+      },
+      {
+        
+        "logo": "/public/media/fotos/udechilelogo.png" 
+      },
+      {
+        
+        "logo": "/public/media/fotos/logo.png" 
+      },
+      {
+        
+        "logo": "/public/media/fotos/logonegro.png" 
       }
+      
+      
       
     ]
 
