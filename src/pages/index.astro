@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Navbar from '../components/Navbar.astro';
+import Footer from '../components/Footer.astro';
 import portfolio from '../data/portfolio.json';
 import { clients } from '../data/clients.json';
 import StackCard from "../components/StackCard.astro";
@@ -400,7 +401,7 @@ const services = [
     </svg>
   </button>
 </Layout>
-
+<Footer />
 <script>
   // Contact form handler
   document.getElementById('contact-form')?.addEventListener('submit', function(e) {
