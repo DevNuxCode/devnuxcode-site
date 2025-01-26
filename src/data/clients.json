@@ -1,0 +1,18 @@
+{
+    "clients": [
+      {
+        "name": "Cliente 1",
+        "logo": "/fotocliente.jpg" 
+      },
+      {
+        "name": "Cliente 2",
+        "logo": "/fotocliente.jpg"
+      },
+      {
+        "name": "Cliente 1",
+        "logo": "/fotocliente.jpg" 
+      }
+      
+    ]
+
+}

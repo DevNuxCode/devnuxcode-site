@@ -1,0 +1,30 @@
+---
+
+type Props = {
+  text: string
+  icon: string
+  href: string
+}
+
+const { text, icon, href } = Astro.props
+---
+
+<a href={href} target="_blank" class="w-fit px-3 py-2 group rounded border flex gap-2 items-center border-neutral-200 dark:border-neutral-700 hover:bg-neutral-100 hover:dark:bg-neutral-800 blend">
+  
+    
+    <img 
+    src={`/${icon}.png`} 
+    alt={`${icon} Logo` }
+    class="w-8 h-8 block dark:hidden"
+  />
+  <img 
+  src={`/${icon}-light.png`} 
+  alt={`${icon} Logo` }
+    class="w-8 h-8  hidden dark:block"
+  />
+
+  
+  <span class="text-sm mt-8 capitalize text-neutral-500 dark:text-neutral-400 group-hover:text-black group-hover:dark:text-white blend">
+    {text}
+  </span>
+</a>

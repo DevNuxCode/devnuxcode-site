@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "name": "E-commerce Dashboard",
+      "description": "Panel de administración para tienda online con análisis de ventas en tiempo real, gestión de productos y pedidos.",
+      "demoURL": "https://ecommerce-dashboard-demo.DevnuxCode.com",
+      "repoURL": "https://github.com/DevnuxCode/ecommerce-dashboard",
+      "tags": ["React", "TypeScript", "Tailwind", "Node.js"]
+    },
+    {
+      "name": "Blog Personal",
+      "description": "Plataforma de blog moderna con sistema de gestión de contenidos, comentarios y análisis de tráfico.",
+      "demoURL": "https://blog-demo.DevnuxCode.com",
+      "repoURL": "https://github.com/DevnuxCode/personal-blog",
+      "tags": ["Astro", "Tailwind", "Markdown"]
+    },
+    {
+      "name": "Sistema de Reservas",
+      "description": "Aplicación web para gestión de reservas de servicios con calendario interactivo y notificaciones.",
+      "demoURL": "https://booking-system-demo.DevnuxCode.com",
+      "repoURL": "https://github.com/DevnuxCode/booking-system",
+      "tags": ["Vue.js", "Node.js", "Tailwind"]
+    },
+    {
+      "name": "E-commerce Dashboard",
+      "description": "Panel de administración para tienda online con análisis de ventas en tiempo real, gestión de productos y pedidos.",
+      "demoURL": "https://ecommerce-dashboard-demo.DevnuxCode.com",
+      "repoURL": "https://github.com/DevnuxCode/ecommerce-dashboard",
+      "tags": ["React", "TypeScript", "Tailwind", "Node.js"]
+    },
+    {
+      "name": "Blog Personal",
+      "description": "Plataforma de blog moderna con sistema de gestión de contenidos, comentarios y análisis de tráfico.",
+      "demoURL": "https://blog-demo.DevnuxCode.com",
+      "repoURL": "https://github.com/DevnuxCode/personal-blog",
+      "tags": ["Astro", "Tailwind", "Markdown"]
+    },
+    {
+      "name": "Sistema de Reservas",
+      "description": "Aplicación web para gestión de reservas de servicios con calendario interactivo y notificaciones.",
+      "demoURL": "https://booking-system-demo.DevnuxCode.com",
+      "repoURL": "https://github.com/DevnuxCode/booking-system",
+      "tags": ["Vue.js", "Node.js", "Tailwind"]
+    }
+  ]
+}
