@@ -1,10 +1,10 @@
 {
   "projects": [
     {
-      "name": "E-commerce Dashboard",
-      "description": "Panel de administración para tienda online con análisis de ventas en tiempo real, gestión de productos y pedidos.",
-      "demoURL": "https://ecommerce-dashboard-demo.DevnuxCode.com",
-      "repoURL": "https://github.com/DevnuxCode/ecommerce-dashboard",
+      "name": "E-commerce App",
+      "description": "Tienda en linea para mostrar productos digitales o fisicos. ",
+      "demoURL": "https://understudios.vercel.app",
+      "repoURL": "https://github.com/DevnuxCode/us",
       "tags": ["React", "TypeScript", "Tailwind", "Node.js"]
     },
     {

@@ -2,31 +2,35 @@
     "clients": [
       {
         
-        "logo": "/media/fotos/canetelogo.png" 
+        "logo": "/media/fotos/canetelogo.png",
+        "url_logo": "https://www.xn--caeteturistico-rnb.cl/"
       },
       {
         
-        "logo": "/media/fotos/visionplena.jpg"
+        "logo": "/media/fotos/visionplena.jpg",
+        "url_logo": "https://visionplena.cl/"
+      },
+   
+      {
+        
+        "logo": "/media/fotos/udechilelogo.png",
+        "url_logo": "https://rrii.med.uchile.cl/web/" 
       },
       {
         
-        "logo": "/media/fotos/libanocliente.png" 
+        "logo": "/media/fotos/logounder.png" ,
+        "url_logo": "https://understudios.vercel.app/" 
       },
       {
         
-        "logo": "/media/fotos/udechilelogo.png" 
+        "logo": "/media/fotos/logonegro.png",
+        "url_logo": "https://republicagamer.vercel.app/" 
+         
       },
       {
         
-        "logo": "/media/fotos/logounder.png" 
-      },
-      {
-        
-        "logo": "/media/fotos/logonegro.png" 
-      },
-      {
-        
-        "logo": "/media/fotos/logomarquesa.png" 
+        "logo": "/media/fotos/logomarquesa.png",
+        "url_logo": "https://lamarquesacurico.cl/" 
       }
       
       

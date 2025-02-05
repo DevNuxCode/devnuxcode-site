@@ -249,12 +249,13 @@ const services = [
       <div class="center mt-16 grid grid-cols-2 gap-8 md:grid-cols-3 lg:grid-cols-6">
         {clients.map(client => (
           <div class="flex justify-center items-center p-4 grayscale hover:grayscale-0 transition-all duration-300">
+            <a href=`${client.url_logo}` target="_blank" rel="nofollow" > 
             <img
               src={client.logo}
               alt={`Logo de ${client.name}`}
               class="h-15 object-contain dark:invert"
               loading="lazy"
-            /><p class="ml-2 dark:text-white">{client.name}</p>
+            /></a><p class="ml-2 dark:text-white">{client.name}</p>
           </div>
         ))}
       </div>
