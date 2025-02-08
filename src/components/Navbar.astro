@@ -100,9 +100,18 @@ const navItems = [
       
     </div>
 
-    <div class="mt-auto">
-      <div class="flex flex-col space-y-4 dark:text-white">
-      <div> <strong> ® DevNuxCode.</strong> Todos los derechos Reservados</div>
+ 
+      
+              <div class="flex ml-60">
+                <select id="themeSelectorMobile" class="rounded px-2 py-1 bg-white dark:bg-gray-400">
+                  <option value="light">{('Tema claro')}</option>
+                  <option value="dark">{('Tema Oscuro')}</option>
+                  
+                </select>
+            
+                </div>
+          </div>
+        </div>
         
       </div>
     </div>
@@ -138,6 +147,7 @@ const navItems = [
 const menuButton = document.getElementById('menuButton');
   const closeMenu = document.getElementById('closeMenu');
   const mobileMenu = document.getElementById('mobileMenu');
+  
 
   function toggleMenu() {
     const isOpen = mobileMenu?.classList.contains('translate-x-0');
@@ -160,7 +170,33 @@ const menuButton = document.getElementById('menuButton');
     }
   }
 
+  const themeSelector = document.getElementById('themeSelector');
+  const themeSelectorMobile = document.getElementById('themeSelectorMobile');
+
   menuButton?.addEventListener('click', toggleMenu);
   closeMenu?.addEventListener('click', toggleMenu);
+
+  function handleThemeChange(e: Event) {
+    const theme = (e.target as HTMLSelectElement).value;
+    document.documentElement.className = theme;
+    localStorage.setItem('theme', theme);
+    
+    // Sync both selectors
+    if (themeSelector && themeSelectorMobile) {
+      themeSelector.value = theme;
+      themeSelectorMobile.value = theme;
+    }
+  }
+
+  themeSelector?.addEventListener('change', handleThemeChange);
+  themeSelectorMobile?.addEventListener('change', handleThemeChange);
+
+  // Load saved theme
+  const savedTheme = localStorage.getItem('theme') || 'light';
+  if (themeSelector && themeSelectorMobile) {
+    themeSelector.value = savedTheme;
+    themeSelectorMobile.value = savedTheme;
+  }
+  document.documentElement.className = savedTheme;
 
 </script>
