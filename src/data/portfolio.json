@@ -8,18 +8,18 @@
       "tags": ["React", "TypeScript", "Tailwind", "Node.js"]
     },
     {
-      "name": "Blog Personal",
-      "description": "Plataforma de blog moderna con sistema de gestión de contenidos, comentarios y análisis de tráfico.",
-      "demoURL": "https://blog-demo.DevnuxCode.com",
+      "name": "E-commerce App",
+      "description": "Plataforma de E-commerce moderna con sistema de gestión de contenidos, comentarios y análisis de tráfico, pasarela de pago, carrito de compras, gestion de clientes, gestion de pedidos.",
+      "demoURL": "https://lamarquesacurico.cl/",
       "repoURL": "https://github.com/DevnuxCode/personal-blog",
-      "tags": ["Astro", "Tailwind", "Markdown"]
+      "tags": ["Html", "Css", "JavaScript"]
     },
     {
       "name": "Sistema de Reservas",
       "description": "Aplicación web para gestión de reservas de servicios con calendario interactivo y notificaciones.",
-      "demoURL": "https://booking-system-demo.DevnuxCode.com",
-      "repoURL": "https://github.com/DevnuxCode/booking-system",
-      "tags": ["Vue.js", "Node.js", "Tailwind"]
+      "demoURL": "https://www.visionplena.cl/reservas/",
+      "repoURL": "",
+      "tags": ["HTML", "JavaScript", "CSS"]
     },
     {
       "name": "E-commerce Dashboard",
