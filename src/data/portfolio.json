@@ -11,36 +11,35 @@
       "name": "E-commerce App",
       "description": "Plataforma de E-commerce moderna con sistema de gestión de contenidos, comentarios y análisis de tráfico, pasarela de pago, carrito de compras, gestion de clientes, gestion de pedidos.",
       "demoURL": "https://lamarquesacurico.cl/",
-      "repoURL": "https://github.com/DevnuxCode/personal-blog",
       "tags": ["Html", "Css", "JavaScript"]
     },
     {
       "name": "Sistema de Reservas",
       "description": "Aplicación web para gestión de reservas de servicios con calendario interactivo y notificaciones.",
       "demoURL": "https://www.visionplena.cl/reservas/",
-      "repoURL": "",
+      "repoURL": "#",
       "tags": ["HTML", "JavaScript", "CSS"]
     },
     {
-      "name": "E-commerce Dashboard",
+      "name": "Sistema de Reservas Simple",
       "description": "Panel de administración para tienda online con análisis de ventas en tiempo real, gestión de productos y pedidos.",
-      "demoURL": "https://ecommerce-dashboard-demo.DevnuxCode.com",
-      "repoURL": "https://github.com/DevnuxCode/ecommerce-dashboard",
-      "tags": ["React", "TypeScript", "Tailwind", "Node.js"]
+      "demoURL": "https://dileivi.vercel.app/",
+      "repoURL": "#",
+      "tags": ["Astro", "HTML", "Tailwind", "Node.js"]
     },
     {
-      "name": "Blog Personal",
+      "name": "Blog Para Influencer",
       "description": "Plataforma de blog moderna con sistema de gestión de contenidos, comentarios y análisis de tráfico.",
-      "demoURL": "https://blog-demo.DevnuxCode.com",
-      "repoURL": "https://github.com/DevnuxCode/personal-blog",
-      "tags": ["Astro", "Tailwind", "Markdown"]
+      "demoURL": "https://republicagamer.vercel.app/",
+      "repoURL": "https://github.com/DevNuxCode/republicagamer-astro",
+      "tags": ["Astro", "Tailwind", "Markdown", "API"]
     },
     {
       "name": "Sistema de Reservas",
-      "description": "Aplicación web para gestión de reservas de servicios con calendario interactivo y notificaciones.",
-      "demoURL": "https://booking-system-demo.DevnuxCode.com",
-      "repoURL": "https://github.com/DevnuxCode/booking-system",
-      "tags": ["Vue.js", "Node.js", "Tailwind"]
+      "description": "Aplicación web para gestión de reservas de servicios con calendario interactivo y notificaciones directamente a su whatsapp.",
+      "demoURL": "https://dileivi.vercel.app/",
+      "repoURL": "https://github.com/DevnuxCode/dilevi",
+      "tags": ["Next.js", "Node.js", "Tailwind"]
     }
   ]
 }
