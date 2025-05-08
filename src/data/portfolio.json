@@ -17,28 +17,28 @@
       "name": "Sistema de Reservas",
       "description": "Aplicación web para gestión de reservas de servicios con calendario interactivo y notificaciones.",
       "demoURL": "https://www.visionplena.cl/reservas/",
-      "repoURL": "#",
+      
       "tags": ["HTML", "JavaScript", "CSS"]
     },
     {
       "name": "Sistema de Reservas Simple",
       "description": "Panel de administración para tienda online con análisis de ventas en tiempo real, gestión de productos y pedidos.",
       "demoURL": "https://dileivi.vercel.app/",
-      "repoURL": "#",
+      
       "tags": ["Astro", "HTML", "Tailwind", "Node.js"]
     },
     {
       "name": "Blog Para Influencer",
       "description": "Plataforma de blog moderna con sistema de gestión de contenidos, comentarios y análisis de tráfico.",
       "demoURL": "https://republicagamer.vercel.app/",
-      "repoURL": "https://github.com/DevNuxCode/republicagamer-astro",
+      
       "tags": ["Astro", "Tailwind", "Markdown", "API"]
     },
     {
       "name": "Sistema de Reservas",
       "description": "Aplicación web para gestión de reservas de servicios con calendario interactivo y notificaciones directamente a su whatsapp.",
       "demoURL": "https://dileivi.vercel.app/",
-      "repoURL": "https://github.com/DevnuxCode/dilevi",
+      
       "tags": ["Next.js", "Node.js", "Tailwind"]
     }
   ]
