@@ -1,0 +1,320 @@
+{
+  "es": {
+    "navbar": {
+      "home": "Inicio",
+      "products": "Productos",
+      "technologies": "Tecnologías",
+      "projects": "Proyectos",
+      "clients": "Clientes",
+      "contact": "Contacto"
+    },
+    "hero": {
+      "title": "Soluciones digitales para emprendedores",
+      "subtitle": "Transformamos ideas en aplicaciones web elegantes y funcionales",
+      "cta": "Contáctanos"
+    },
+    "products": {
+      "title": "Nuestros Planes",
+      "description": "Ofrecemos soluciones adaptadas a tus necesidades",
+      "plans": [
+        {
+          "id": "plan1",
+          "name": "Plan Básico",
+          "description": "Ideal para comenzar tu presencia online",
+          "features": [
+            "Sitio web de 5 páginas",
+            "Diseño responsive",
+            "Formulario de contacto básico",
+            "SEO básico"
+          ],
+          "price": "$XXX"
+        },
+        {
+          "id": "plan2",
+          "name": "Plan Profesional",
+          "description": "Para empresas que buscan destacarse",
+          "features": [
+            "Sitio web de hasta 10 páginas",
+            "Diseño premium personalizado",
+            "Integración con CMS",
+            "SEO avanzado",
+            "Mantenimiento mensual"
+          ],
+          "price": "$XXX"
+        }
+      ]
+    },
+    "technologies": {
+      "title": "Tecnologías que utilizamos",
+      "description": "Desarrollamos con las herramientas más modernas y eficientes",
+      "categories": [
+        {
+          "name": "Frontend",
+          "techs": ["React", "Next.js", "Tailwind CSS", "TypeScript"]
+        },
+        {
+          "name": "Backend",
+          "techs": ["Node.js", "Express", "Python", "Django"]
+        },
+        {
+          "name": "Bases de datos",
+          "techs": ["MongoDB", "PostgreSQL", "Firebase"]
+        }
+      ]
+    },
+    "projects": {
+      "title": "Proyectos Destacados",
+      "description": "Algunos de nuestros trabajos más recientes",
+      "list": [
+        {
+          "name": "E-commerce ModaShop",
+          "description": "Tienda online completa con pasarela de pagos",
+          "technologies": ["Next.js", "Stripe", "MongoDB"],
+          "image": "https://images.pexels.com/photos/6567607/pexels-photo-6567607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "link": "#"
+        },
+        {
+          "name": "Dashboard Administrativo",
+          "description": "Sistema de gestión interna para startup",
+          "technologies": ["React", "Node.js", "PostgreSQL"],
+          "image": "https://images.pexels.com/photos/5899233/pexels-photo-5899233.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "link": "#"
+        },
+        {
+          "name": "Aplicación de Fitness",
+          "description": "App de seguimiento de ejercicios y nutrición",
+          "technologies": ["React Native", "Firebase", "Node.js"],
+          "image": "https://images.pexels.com/photos/3927392/pexels-photo-3927392.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "link": "#"
+        },
+        {
+          "name": "Plataforma Educativa",
+          "description": "Sistema LMS para cursos online",
+          "technologies": ["Next.js", "MongoDB", "AWS"],
+          "image": "https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "link": "#"
+        }
+      ]
+    },
+    "clients": {
+      "title": "Nuestros Clientes",
+      "description": "Empresas que confían en nosotros",
+      "testimonials": [
+        {
+          "name": "Carlos Rodríguez",
+          "company": "Startup XYZ",
+          "text": "DevNuxCode transformó nuestra idea en una aplicación web funcional en tiempo récord. Excelente servicio y calidad.",
+          "image": "https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+          "name": "María González",
+          "company": "Empresa ABC",
+          "text": "Superaron nuestras expectativas. Ahora tenemos una web profesional que representa perfectamente nuestra marca.",
+          "image": "https://images.pexels.com/photos/3772615/pexels-photo-3772615.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+          "name": "Javier Méndez",
+          "company": "TechSolutions",
+          "text": "El equipo de DevNuxCode entendió perfectamente nuestras necesidades y entregó un producto que superó todas nuestras expectativas.",
+          "image": "https://images.pexels.com/photos/7562313/pexels-photo-7562313.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contáctanos",
+      "description": "Estamos listos para ayudarte a dar el siguiente paso",
+      "form": {
+        "name": "Nombre completo",
+        "phone": "Número de contacto",
+        "email": "Correo electrónico",
+        "plan": "Plan de interés",
+        "planOptions": ["Seleccione un plan", "Plan Básico", "Plan Profesional"],
+        "submit": "Enviar mensaje"
+      },
+      "info": {
+        "address": "Calle Principal #123, Ciudad",
+        "email": "info@devnuxcode.com",
+        "phone": "+5678404620"
+      }
+    },
+    "footer": {
+      "about": "Somos expertos en desarrollo web para emprendedores, creando soluciones digitales elegantes y funcionales.",
+      "quickLinks": "Enlaces rápidos",
+      "contact": "Contacto",
+      "social": "Síguenos",
+      "copyright": "© 2025 DevNuxCode. Todos los derechos reservados."
+    },
+    "theme": {
+      "light": "Claro",
+      "dark": "Oscuro"
+    },
+    "language": {
+      "en": "English",
+      "es": "Español"
+    },
+    "buttons": {
+      "backToTop": "Volver arriba",
+      "readMore": "Leer más",
+      "viewProject": "Ver proyecto"
+    }
+  },
+  "en": {
+    "navbar": {
+      "home": "Home",
+      "products": "Products",
+      "technologies": "Technologies",
+      "projects": "Projects",
+      "clients": "Clients",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "Digital solutions for entrepreneurs",
+      "subtitle": "We transform ideas into elegant and functional web applications",
+      "cta": "Contact us"
+    },
+    "products": {
+      "title": "Our Plans",
+      "description": "We offer solutions tailored to your needs",
+      "plans": [
+        {
+          "id": "plan1",
+          "name": "Basic Plan",
+          "description": "Ideal to start your online presence",
+          "features": [
+            "5-page website",
+            "Responsive design",
+            "Basic contact form",
+            "Basic SEO"
+          ],
+          "price": "$XXX"
+        },
+        {
+          "id": "plan2",
+          "name": "Professional Plan",
+          "description": "For businesses looking to stand out",
+          "features": [
+            "Up to 10-page website",
+            "Premium custom design",
+            "CMS integration",
+            "Advanced SEO",
+            "Monthly maintenance"
+          ],
+          "price": "$XXX"
+        }
+      ]
+    },
+    "technologies": {
+      "title": "Technologies we use",
+      "description": "We develop with the most modern and efficient tools",
+      "categories": [
+        {
+          "name": "Frontend",
+          "techs": ["React", "Next.js", "Tailwind CSS", "TypeScript"]
+        },
+        {
+          "name": "Backend",
+          "techs": ["Node.js", "Express", "Python", "Django"]
+        },
+        {
+          "name": "Databases",
+          "techs": ["MongoDB", "PostgreSQL", "Firebase"]
+        }
+      ]
+    },
+    "projects": {
+      "title": "Featured Projects",
+      "description": "Some of our most recent work",
+      "list": [
+        {
+          "name": "ModaShop E-commerce",
+          "description": "Complete online store with payment gateway",
+          "technologies": ["Next.js", "Stripe", "MongoDB"],
+          "image": "https://images.pexels.com/photos/6567607/pexels-photo-6567607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "link": "#"
+        },
+        {
+          "name": "Administrative Dashboard",
+          "description": "Internal management system for startup",
+          "technologies": ["React", "Node.js", "PostgreSQL"],
+          "image": "https://images.pexels.com/photos/5899233/pexels-photo-5899233.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "link": "#"
+        },
+        {
+          "name": "Fitness Application",
+          "description": "Exercise and nutrition tracking app",
+          "technologies": ["React Native", "Firebase", "Node.js"],
+          "image": "https://images.pexels.com/photos/3927392/pexels-photo-3927392.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "link": "#"
+        },
+        {
+          "name": "Educational Platform",
+          "description": "LMS system for online courses",
+          "technologies": ["Next.js", "MongoDB", "AWS"],
+          "image": "https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "link": "#"
+        }
+      ]
+    },
+    "clients": {
+      "title": "Our Clients",
+      "description": "Companies that trust us",
+      "testimonials": [
+        {
+          "name": "Carlos Rodriguez",
+          "company": "Startup XYZ",
+          "text": "DevNuxCode transformed our idea into a functional web application in record time. Excellent service and quality.",
+          "image": "https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+          "name": "Maria Gonzalez",
+          "company": "ABC Company",
+          "text": "They exceeded our expectations. Now we have a professional website that perfectly represents our brand.",
+          "image": "https://images.pexels.com/photos/3772615/pexels-photo-3772615.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+          "name": "Javier Mendez",
+          "company": "TechSolutions",
+          "text": "The DevNuxCode team perfectly understood our needs and delivered a product that exceeded all our expectations.",
+          "image": "https://images.pexels.com/photos/7562313/pexels-photo-7562313.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "We're ready to help you take the next step",
+      "form": {
+        "name": "Full name",
+        "phone": "Contact number",
+        "email": "Email",
+        "plan": "Plan of interest",
+        "planOptions": ["Select a plan", "Basic Plan", "Professional Plan"],
+        "submit": "Send message"
+      },
+      "info": {
+        "address": "Main Street #123, City",
+        "email": "info@devnuxcode.com",
+        "phone": "+5678404620"
+      }
+    },
+    "footer": {
+      "about": "We are experts in web development for entrepreneurs, creating elegant and functional digital solutions.",
+      "quickLinks": "Quick links",
+      "contact": "Contact",
+      "social": "Follow us",
+      "copyright": "© 2025 DevNuxCode. All rights reserved."
+    },
+    "theme": {
+      "light": "Light",
+      "dark": "Dark"
+    },
+    "language": {
+      "en": "English",
+      "es": "Español"
+    },
+    "buttons": {
+      "backToTop": "Back to top",
+      "readMore": "Read more",
+      "viewProject": "View project"
+    }
+  }
+}
