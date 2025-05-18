@@ -15,19 +15,20 @@
     },
     "products": {
       "title": "Nuestros Planes",
-      "description": "Ofrecemos soluciones adaptadas a tus necesidades",
+      "description": "Ofrecemos soluciones adaptadas a tus necesidades, pago de suscripciones anual",
       "plans": [
         {
           "id": "plan1",
           "name": "Plan Básico",
-          "description": "Ideal para comenzar tu presencia online",
+          "description": "Muestra tus trabajos, tus testimonios, ofrece tus servicios y productos. recolecta los datos necesarios desde el formulario de contacto y la app los envia a un numero whatsapp para su pronta atención. concentra tus redes sociales y tu informacion de contacto en un solo sitio y lleva tu emprendimiento al siguiente nivel.",
           "features": [
-            "Sitio web de 5 páginas",
+            "Servicio en la Nube.",
+            "Soporte directo 24/7",
             "Diseño responsive",
             "Formulario de contacto básico",
             "SEO básico"
           ],
-          "price": "$XXX"
+          "price": "$29.990 x Mes" 
         },
         {
           "id": "plan2",
