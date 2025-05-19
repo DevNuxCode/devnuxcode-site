@@ -68,32 +68,46 @@
       "description": "Algunos de nuestros trabajos más recientes",
       "list": [
         {
-          "name": "E-commerce ModaShop",
+          "name": "E-commerce Modo Shop",
           "description": "Tienda online completa con pasarela de pagos",
-          "technologies": ["Next.js", "Stripe", "MongoDB"],
-          "image": "https://images.pexels.com/photos/6567607/pexels-photo-6567607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-          "link": "#"
+          "technologies": ["Wordpress", "Flow", "MySQL"],
+          "image": "/lamarquezadecuricocl.jpg",
+          "link": "https://lamarquesacurico.cl/"
         },
         {
-          "name": "Dashboard Administrativo",
+          "name": "App citas via Whatsapp",
           "description": "Sistema de gestión interna para startup",
-          "technologies": ["React", "Node.js", "PostgreSQL"],
-          "image": "https://images.pexels.com/photos/5899233/pexels-photo-5899233.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-          "link": "#"
+          "technologies": ["Nextjs", "Tailwind", "WhatsApp"],
+          "image": "/dileivi.jpg",
+          "link": "https://dileivi.vercel.app/"
         },
         {
-          "name": "Aplicación de Fitness",
+          "name": "Aplicación de Vlog para Tiktok",
           "description": "App de seguimiento de ejercicios y nutrición",
-          "technologies": ["React Native", "Firebase", "Node.js"],
-          "image": "https://images.pexels.com/photos/3927392/pexels-photo-3927392.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-          "link": "#"
+          "technologies": ["Nextjs", "Tiktok", "Vlog"],
+          "image": "/memazos.jpg",
+          "link": "https://memazos.vercel.app"
         },
         {
-          "name": "Plataforma Educativa",
+          "name": "Plataforma corporativa",
           "description": "Sistema LMS para cursos online",
           "technologies": ["Next.js", "MongoDB", "AWS"],
-          "image": "https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-          "link": "#"
+          "image": "/dri.jpg",
+          "link": "https://rrii.med.uchile.cl/web/"
+        },
+        {
+          "name": "Plataforma corporativa",
+          "description": "Sistema LMS para cursos online",
+          "technologies": ["Next.js", "MongoDB", "AWS"],
+          "image": "/canete.jpg",
+          "link": "https://www.xn--caeteturistico-rnb.cl/"
+        },
+        {
+          "name": "Plataforma Productos digitales",
+          "description": "Sistema LMS para cursos online",
+          "technologies": ["Next.js", "MongoDB", "AWS"],
+          "image": "/understudios.jpg",
+          "link": "https://understudios.vercel.app/"
         }
       ]
     },
